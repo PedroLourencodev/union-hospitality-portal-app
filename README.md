@@ -1,4 +1,4 @@
-> ⚠️ This project is still under active development and not yet 100% complete.
+> 🚧 Work in progress: The app is still under development and some features may not be fully implemented yet.
 
 📱 Sinthoresmar Union App
 
