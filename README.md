@@ -1,3 +1,5 @@
+> ⚠️ This project is still under active development and not yet 100% complete.
+
 📱 Sinthoresmar Union App
 
 Official mobile and web application developed for the **Sinthoresmar Union**, built with **Flutter**, **Firebase**, and **Supabase**.  
