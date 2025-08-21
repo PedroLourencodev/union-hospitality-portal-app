@@ -1,16 +1,26 @@
-# sindicato_app
+📱 Sinthoresmar Union App
 
-A new Flutter project.
+Official mobile and web application developed for the **Sinthoresmar Union**, built with **Flutter**, **Firebase**, and **Supabase**.  
+The app provides union members with access to legal, financial, and informational services in a modern and secure way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🔐 **Authentication** (email & password)
+- 📰 **News Feed** (managed via Supabase admin panel)
+- ❓ **FAQ** with searchable questions
+- 📅 **Legal Consultancy Scheduling**
+- 📤 **Digital Payslip Requests**
+- 💸 **Labor Calculation Tool**
+- 🕵️ **Anonymous Complaints**
+- 📥 **Internal Messaging Inbox**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧰 Tech Stack
+- **Flutter 3.x** (cross-platform development)
+- **Firebase** (Authentication, Storage)
+- **Supabase** (Database & Admin Panel)
+- **Riverpod** (State management)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
