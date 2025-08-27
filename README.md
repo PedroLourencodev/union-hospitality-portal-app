@@ -1,4 +1,3 @@
-> 🚧 Work in progress: The app is still under development and some features may not be fully implemented yet.
 
 📱 Sinthoresmar Union App
 
